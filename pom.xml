@@ -9,18 +9,18 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.exe201</groupId>
-    <artifactId>ILink-model</artifactId>
+    <artifactId>ilink-model</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ILink-model</name>
+    <name>ilink-model</name>
     <description>Model and Repository for ILink Back-end</description>
     <properties>
         <java.version>17</java.version>
     </properties>
     <distributionManagement>
         <repository>
-            <id>github-ILink-model</id>
+            <id>github-ilink-model</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/Tinhhhh/ILink-model</url>
+            <url>https://maven.pkg.github.com/Tinhhhh/ilink-model</url>
         </repository>
     </distributionManagement>
 
