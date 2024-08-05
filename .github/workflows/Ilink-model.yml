@@ -18,7 +18,7 @@ jobs:
           echo "<settings>
                   <servers>
                     <server>
-                      <id>github-ILink-model</id>
+                      <id>github-ilink-model</id>
                       <username>Tinhhhh</username>
                       <password>${{ secrets.JAVA_TOKEN }}</password>
                     </server>
